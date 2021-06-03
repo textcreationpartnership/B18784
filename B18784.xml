@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of medicines for several diseases, communicated for the good of the nation, to prevent people from hazarding their lives, and throwing away their money on those many ignorant pretenders to physic, by a very famous doctor and physician, who by his long study and constant practice, ...</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18784</idno><idno type="EEBO-CITATION">99888978_196204</idno>
+  <idno type="VID">196204</idno>
+  <idno type="EEBO-PROQUEST">2248545354</idno>
+  
+            <idno type="STC">Wing C1362B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[118]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[213]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R232607</idno>
+            <idno type="PROQUEST">ocm99888978</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888978e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196204)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[116], E8:2[212])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of medicines for several diseases, communicated for the good of the nation, to prevent people from hazarding their lives, and throwing away their money on those many ignorant pretenders to physic, by a very famous doctor and physician, who by his long study and constant practice, ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Item at reel position E8:2[212] imperfect: slightly stained at foot of p. 2, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="catalogue">
+            <pb facs="tcp:196204:1"/>
+            <p>A Catalogue of Medicines for several Diseases, commu<g ref="char:EOLhyphen"/>nicated for the good of the Nation, to prevent People from hazarding their Lives, and throwing away their Money on those many ignorant Pretenders to <hi>Physic,</hi> by a very famous <hi>Doctor</hi> and <hi>Physician,</hi> who by his long Study and constant Practice, hath obtained to the most rarest Secrets in <hi>Physic</hi> and <hi>Chirurgery,</hi> witness his many honou<g ref="char:EOLhyphen"/>rable Certificates that he hath by him; and also the many Languages that he can speak: First, a Medicine that cures the <hi>Ague</hi> by one Dose, price 5 <hi>s.</hi> Another that cures little Children of the <hi>Convulsion-Fits,</hi> or any other <hi>Fits,</hi> by one Dose, price 5 <hi>s.</hi> Another that kills the <hi>Worms</hi> in young Children, price 1 <hi>s.</hi> 6 <hi>d.</hi> Another that cures the <hi>Toothach,</hi> or <hi>Worm</hi> in the <hi>hollow Tooth,</hi> in one hour, price 1 <hi>s.</hi> and if the <hi>Face</hi> be swelled as big as ones fist with the Pain thereof, he has an Ointment that cures it in 24 hours, or 48 hours at farthest, price 1 <hi>s.</hi> Another Remedy that cures the <hi>Rheum</hi> that falls from the <hi>Head</hi> on the <hi>Teeth</hi> in one hour, price 5 <hi>s.</hi> Another Remedy that cures <hi>black</hi> and <hi>blew Marks</hi> gotten by Blows, or <hi>Bruises,</hi> in 48 hours, price 2<hi>s.</hi> 6<hi>d.</hi> Another that cures the <hi>Kernels</hi> under the <hi>Ears</hi> in 48 hours, although they are as big as ones fist, and the Party in a hot burning <hi>Feaver,</hi> price 5 <hi>s.</hi> A Pill that cures the <hi>loose Gripes,</hi> or <hi>Griping</hi> in the <hi>Guts,</hi> in one hour, price 2 <hi>s.</hi> 6 <hi>d.</hi> Also a Glister that cures the <hi>dry Gripes,</hi> or <hi>Costiveness,</hi> in 12 hours, price 5 <hi>s.</hi> and another Glister that breaks the <hi>Stone</hi> in the <hi>Reins</hi> or <hi>Bladder,</hi> and brings it away in Gravel, the price is one Guinney. A Plaster that cures all <hi>Pains</hi> in the <hi>Body,</hi> gotten by <hi>Falls, Strains, Bruises,</hi> or <hi>Colds,</hi> but especially in the <hi>Back</hi> or <hi>Sides,</hi> in 3 days, price 5 <hi>s.</hi> and by adding an Ointment of his to it, it cures the <hi>Sciatica,</hi> or <hi>Huckle-bone Gout,</hi> in an admirable short time, the price of the Oint<g ref="char:EOLhyphen"/>ment is 5 <hi>s.</hi> He hath also a Remedy to open the <hi>Stoppage</hi> of the <hi>Water</hi> in one hour, although the Patient hath not let one drop in 8 days, price 10 <hi>s.</hi> He hath a Drink that cures the <hi>Dropsie</hi> or <hi>Scurvy</hi> (although you could press a Finger two Inches deep in your Legs) in two or three Weeks at farthest, the Quart 2 <hi>s.</hi> 6 <hi>d.</hi> Another Drink that
+<pb facs="tcp:196204:2"/>cures the <hi>Stoppage</hi> of the <hi>Stomach, Pains,</hi> and shortness of <hi>Breath,</hi> price 10 <hi>s.</hi> He hath another Remedy for <hi>Warts</hi> on the <hi>Hands,</hi> or any <hi>Excrescencies,</hi> either in the <hi>Fundament, Privities,</hi> or any other parts of the <hi>Body,</hi> the price accor<g ref="char:EOLhyphen"/>ding to the Number or Place where they stand. He has another for <hi>Sore Eyes,</hi> price 4 <hi>s.</hi> Another that cures the <hi>Swelling</hi> in the <hi>Cods</hi> or <hi>Groin,</hi> price one Guinney. He has the best Pills in the World for the <hi>Running</hi> of the <hi>Reins</hi> or <hi>Whites,</hi> the Box 5 <hi>s.</hi> there is 150 Pills in each Box, some<g ref="char:EOLhyphen"/>times one Box cures them, and seldom more than five are used, if the Distemper be violent. A Pill that immedi<g ref="char:EOLhyphen"/>ately asswageth the <hi>Cholic,</hi> price 1 <hi>s.</hi> Another Remedy for <hi>Kibed Heels</hi> that cures them by one Application, price 2 <hi>s.</hi> He has a Pill that cures the vehement <hi>Pains</hi> in the <hi>Head</hi> in one hour, price 2 <hi>s.</hi> 6 <hi>d.</hi> He has a Remedy for the <hi>Itch,</hi> that cures it by three Applications, price 10 <hi>s.</hi> He has ano<g ref="char:EOLhyphen"/>ther for <hi>Burning</hi> or <hi>Scalding,</hi> which cures it in as short time as can be by any expected, price 6 <hi>d.</hi> the Ounce. He has another Remedy that cures any person of the <hi>losing</hi> of their <hi>Seed</hi> in <hi>Sleep,</hi> called <hi>Nocturnal Pollution,</hi> it cures them in a very short time, price 10 <hi>s.</hi> He cures the <hi>French Dox,</hi> with all its Accidents, as <hi>Running of the Reins, Ʋlcers in the Yard or Throat, swelling of the Groin or Gods, Sores and Pimples over the body,</hi> and the like, as safely and certainly as any <hi>Physician</hi> in the World. He has cured such as have been afflicted with the <hi>King's Evil</hi> 18 and 25 years in less than two months. In a word, he cures all curable Distempers in old or young; and whoever makes use of him, shall never have occasion to repent, with God's Grace; and for the Poor, they need not take notice of the prices here set down, for he is of so charitable a disposition, that he lets them have them according to their Ability. He must have skill to cure young and old, weak and strong, that world be accounted an able <hi>
+                  <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>sician.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>From his House in</hi> Cross-Street <hi>in</hi> Hatton-Garden, (<hi>the third new-built House from</hi> Field-Lane) <hi>at the new Sign of the</hi> Physician <hi>and</hi> Chirurgion, <hi>with the</hi> Golden Anchor.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
